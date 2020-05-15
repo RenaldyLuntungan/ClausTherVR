@@ -1,0 +1,133 @@
+# Blender MTL File: 'lift1x1.blend'
+# Material Count: 12
+
+newmtl FrontColor
+Ns 440.999985
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd 153983707.jpg
+
+newmtl Hitam
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.104617 0.104616 0.104617
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Lantai
+Ns 440.999985
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd wood_patterned_01-l-color.jpg
+
+newmtl Material.013
+Ns 566.789394
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Kuliah\\Skripsi 2\\foto\\lift\\button.JPG
+
+newmtl Material.015
+Ns 443.314950
+Ka 0.504587 0.504587 0.504587
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Kuliah\\Skripsi 2\\foto\\lift\\button.JPG
+
+newmtl Material.016
+Ns 575.999996
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Kuliah\\Skripsi 2\\foto\\lift\\button.JPG
+
+newmtl Material.017
+Ns 575.999996
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Kuliah\\Skripsi 2\\foto\\lift\\button.JPG
+
+newmtl Material.020
+Ns 575.999996
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Kuliah\\Skripsi 2\\foto\\lift\\button.JPG
+
+newmtl Material.021
+Ns 575.999996
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Kuliah\\Skripsi 2\\foto\\lift\\button.JPG
+
+newmtl Material.022
+Ns 509.351056
+Ka 0.651376 0.651376 0.651376
+Kd 0.800000 0.800000 0.800000
+Ks 0.463303 0.463303 0.463303
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Kuliah\\Skripsi 2\\foto\\lift\\button.JPG
+
+newmtl Material.023
+Ns 900.000000
+Ka 0.495413 0.495413 0.495413
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd 153983707.jpg
+
+newmtl Pintu
+Ns 900.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd 153983707.jpg

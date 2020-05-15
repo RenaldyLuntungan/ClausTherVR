@@ -1,0 +1,45 @@
+# Blender MTL File: 'lift2x2.blend'
+# Material Count: 4
+
+newmtl FrontColor
+Ns 440.999985
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd 153983707.jpg
+
+newmtl Lantai
+Ns 440.999985
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd wood_patterned_01-l-color.jpg
+
+newmtl dinding_bawah
+Ns 900.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd 201-304-316-Hairline-Finish-Ti-Gold-Stainless-Steel-Sheet.jpg
+
+newmtl hitam
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.104617 0.104616 0.104617
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
